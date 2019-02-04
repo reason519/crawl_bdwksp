@@ -1,6 +1,14 @@
 # crawl_bdwksp
 爬取百度文库中的免费视频
 
+需要python依赖库
+
+1.requests
+
+2.BeautifulSoup
+
+3.selenium
+
 找到百度文库中需要下载的系列视频
 
 
@@ -15,8 +23,5 @@
 
 运行程序即可！
 
-需要python依赖库
-requests
-BeautifulSoup
-selenium
+
 
